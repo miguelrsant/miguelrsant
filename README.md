@@ -20,7 +20,6 @@ Sou desenvolvedor Full Stack em Franca/SP. Hoje trabalho com Python em sistemas 
 | --- | --- | --- |
 | [desafio-backend](https://github.com/miguelrsant/desafio-backend) | API REST de tarefas com JWT, soft delete, camada de services e testes com cobertura | Django REST, PostgreSQL, Docker, Pytest |
 | [desafio-frontend](https://github.com/miguelrsant/desafio-frontend) · [demo](https://desafio-frontend-ashen-omega.vercel.app) | Explorer da Rick and Morty API com busca, filtros, paginação e dark mode | React, TypeScript, Tailwind CSS |
-| [atlasstore](https://github.com/miguelrsant/atlasstore) · [demo](https://atlasstore-dun.vercel.app) | Loja virtual de moda com foco em identidade visual e motion | React, TypeScript, Vite |
 | [clone-tabnews](https://github.com/miguelrsant/clone-tabnews) · [demo](https://clone-tabnews-nine-kohl-63.vercel.app) | Implementação do TabNews feita no curso.dev | JavaScript, Next.js |
 | [miguelrsant-ai-pack](https://github.com/miguelrsant/miguelrsant-ai-pack) | Skills, agentes, prompts e workflows reutilizáveis para programar com IA | JavaScript |
 
