@@ -18,10 +18,10 @@ Sou desenvolvedor Full Stack em Franca/SP. Hoje trabalho com Python em sistemas 
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [desafio-backend](https://github.com/miguelrsant/desafio-backend) | API REST de tarefas com JWT, soft delete, camada de services e testes com cobertura | Django REST, PostgreSQL, Docker, Pytest |
-| [desafio-frontend](https://github.com/miguelrsant/desafio-frontend) · [demo](https://desafio-frontend-ashen-omega.vercel.app) | Explorer da Rick and Morty API com busca, filtros, paginação e dark mode | React, TypeScript, Tailwind CSS |
-| [clone-tabnews](https://github.com/miguelrsant/clone-tabnews) · [demo](https://clone-tabnews-nine-kohl-63.vercel.app) | Implementação do TabNews feita no curso.dev | JavaScript, Next.js |
-| [miguelrsant-ai-pack](https://github.com/miguelrsant/miguelrsant-ai-pack) | Skills, agentes, prompts e workflows reutilizáveis para programar com IA | JavaScript |
+| [gira](https://github.com/miguelrsant/gira) · [demo](https://gira-six.vercel.app) | Joguinho 3D de navegador: um planeta pequeno que só gira se você andar, numa crítica bem-humorada à escala 6x1 | three.js, React, Vite |
+| [dentro-da-ansiedade](https://github.com/miguelrsant/dentro-da-ansiedade) · [demo](https://dentro-da-ansiedade.vercel.app) | Site narrativo em 3D sobre ansiedade: 16 cenas que avançam com a rolagem, do despertador ao pedido de ajuda | three.js, React, Vite |
+| [tinta-e-montanha](https://github.com/miguelrsant/tinta-e-montanha) · [demo](https://tinta-e-montanha.vercel.app) | A história do Kasato Maru em pintura a tinta e música, com tudo gerado por código | React, Canvas 2D, Web Audio |
+| [casa_3d](https://github.com/miguelrsant/casa_3d) · [demo](https://casa-3d-woad.vercel.app) | Casa Brisa: uma planta baixa que vira casa 3D conforme você rola a página | three.js, TypeScript, GSAP |
 
 ## Contato
 
